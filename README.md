@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # NewsXpress-React-App
 >>>>>>> 28a790ab8e1ded2b37cc876ed655f38e4d845823
+=======
+# NewsXpress
+>>>>>>> 96b998cd06b495d3aa7c5d907c3ec93d7e695540
