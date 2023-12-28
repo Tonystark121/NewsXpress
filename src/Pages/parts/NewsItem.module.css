@@ -1,0 +1,11 @@
+.mycard{
+    position: relative;
+}
+.mycard i{
+    font-size: 28px;
+    position: absolute;
+    top:5px;
+    right: 5px;
+    color: whitesmoke;
+    cursor: pointer;
+}
